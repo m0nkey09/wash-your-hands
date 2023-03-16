@@ -1,0 +1,31 @@
+ 
+ body {
+    background:#293462;
+    display:flex;
+    justify-content:center;
+    align-items:center
+  
+  }
+  #a{
+    height:120px;
+    width:200px;
+    background:#A64942;
+    border-radius:20px;
+  
+  }
+  #b{
+    height:100px;
+    width:200px;
+    background:#FE5F55;
+    border-radius:20px;
+    display:flex;
+      justify-content: center;
+    align-items:center;
+    
+  }
+  #c{
+    height:40px;
+    width:140px;
+    background:#A64942;
+    border-radius:20px
+  }
